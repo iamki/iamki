@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi ! ✌✨
+My nickname is Ki. I am Bioinformatics graduate and currently learning on how to become a Data Analyst. 💻
+I have experience for these skills:
+- SQL
+- Python
+- Data Analysis
+- Data Science
+
+I'm currently looking for a Data Analyst job. 🤝
 
 <!--
 **iamki/iamki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
