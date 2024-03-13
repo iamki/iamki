@@ -1,5 +1,6 @@
 ### Hi ! ✌✨
-My nickname is Ki. I am Bioinformatics graduate and currently learning on how to become a Data Analyst. 💻
+My nickname is Ki. (❁´◡`❁)
+I am Bioinformatics graduate and currently learning on how to become a Data Analyst. 💻
 I have experience for these skills:
 - SQL
 - Python
