@@ -12,7 +12,7 @@ You can check out my profile at DataLemur, [StrataScratch](https://platform.stra
 
 I'm currently looking for a Data Analyst job. 🤝 Let's connect with me in [LinkedIn](https://www.linkedin.com/in/ilham-mahamood-1102431b3/)! 
 
-While I'm at it, I'm currently working on analysing Instacart Case Study which you can find in my repo.
+While I'm at it, I'm currently working on analysing [Instacart Case Study](https://github.com/iamki/instacart-SQL) which you can find in my repo.
 <!--
 **iamki/iamki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
