@@ -3,12 +3,12 @@ My name is Ilham and my nickname is Ki. (❁´◡`❁)
 
 I have recently graduated with Master's Degree in Bioinformatics and holds Bachelor's Degree in Biotechnology. At the moment, I'm deeply passionate about becoming a Data Analyst as I find the field fascinating because of its ability to uncover hidden insights within datasets, don't you?. 💻
 
-I have experience for these languages :books::
+I have experience in these languages :books::
 - SQL
 - Python (for Machine Learning and Data Visualization)
 - HTML
 
-You can check out my profile at DataLemur, [StrataScratch](https://platform.stratascratch.com/user/CyanWhale) and [LeetCode](https://leetcode.com/iamki/) to see my progress.
+You can check out my profile at [StrataScratch](https://platform.stratascratch.com/user/CyanWhale) and [LeetCode](https://leetcode.com/iamki/) to see my progress.
 
 I'm currently looking for a Data Analyst job. 🤝 Let's connect with me in [LinkedIn](https://www.linkedin.com/in/ilham-mahamood-1102431b3/)! 
 
