@@ -6,9 +6,9 @@ I have recently graduated with Master's Degree in Bioinformatics and holds Bache
 I have experience in these languages :books::
 - SQL
 - Python (for Machine Learning and Data Visualization)
-- HTML
+- HTML + CSS
 
-You can check out my profile at [StrataScratch](https://platform.stratascratch.com/user/CyanWhale) and [LeetCode](https://leetcode.com/iamki/) to see my progress.
+You can check out my profile at [StrataScratch](https://platform.stratascratch.com/user/CyanWhale) and [LeetCode](https://leetcode.com/iamki/) to see my progress in learning SQL.
 
 I'm currently looking for a Data Analyst job. 🤝 Let's connect with me in [LinkedIn](https://www.linkedin.com/in/ilham-mahamood/)! 
 
