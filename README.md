@@ -10,7 +10,7 @@ I have experience in these languages :books::
 
 You can check out my profile at [StrataScratch](https://platform.stratascratch.com/user/CyanWhale) and [LeetCode](https://leetcode.com/iamki/) to see my progress.
 
-I'm currently looking for a Data Analyst job. 🤝 Let's connect with me in [LinkedIn](https://www.linkedin.com/in/ilham-mahamood-1102431b3/)! 
+I'm currently looking for a Data Analyst job. 🤝 Let's connect with me in [LinkedIn](https://www.linkedin.com/in/ilham-mahamood/)! 
 
 While I'm at it, I'm currently working on analysing [Instacart Case Study](https://github.com/iamki/instacart-SQL) which you can find in my repo.
 <!--
